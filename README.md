@@ -2,8 +2,9 @@
 
 A Python-based file organization tool with a modern GUI interface that automatically monitors and organizes files based on their extensions.
 
-
-![1744397375159](image/README/1744397375159.png)
+<div align="center">
+  <img src="image/README/1744397375159.png" alt="Application Screenshot">
+</div>
 
 ## Features
 
