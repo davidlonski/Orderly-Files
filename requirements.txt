@@ -1,0 +1,8 @@
+# This project uses Python's standard library modules:
+# - tkinter (GUI framework)
+# - logging (logging system)
+# - datetime (date and time handling)
+# - os (file system operations)
+# - sys (system-specific parameters)
+
+# No additional pip packages are required 
