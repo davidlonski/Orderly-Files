@@ -2,6 +2,9 @@
 
 A Python-based file organization tool with a modern GUI interface that automatically monitors and organizes files based on their extensions.
 
+
+![1744397375159](image/README/1744397375159.png)
+
 ## Features
 
 - 🖥️ Modern dark-themed GUI interface
@@ -20,12 +23,14 @@ A Python-based file organization tool with a modern GUI interface that automatic
 ## Installation
 
 1. Clone this repository:
+
 ```bash
 git clone https://github.com/yourusername/Orderly-Files.git
 cd Orderly-Files
 ```
 
 2. Set up a virtual environment (recommended):
+
 ```bash
 # Create a virtual environment
 python -m venv venv
@@ -38,11 +43,13 @@ source venv/bin/activate
 ```
 
 3. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 4. Run the application:
+
 ```bash
 python src/auto_move_files_tkinter.py
 ```
